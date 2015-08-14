@@ -1,0 +1,1 @@
+This git repository contains a Python script that demonstrates the *kinematic substructuring* algorithm described in *Generalized coordinate partitioning for complex mechanisms based on kinematic substructuring* [doi:10.1016/j.mechmachtheory.2015.06.006](http://dx.doi.org/10.1016/j.mechmachtheory.2015.06.006).
